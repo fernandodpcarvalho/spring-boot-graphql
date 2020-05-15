@@ -41,8 +41,3 @@ alias
 fragment
 "!" = Define not null
 Para receber "objetos" como parâmetro: inputType (no arquivo .graphqls) / ModelMapper (No java)
-# mutation {
-#   saveCliente(cliente: {id: 5, nome: "Cliente E", email: "e@e.com"}) {
-#     id
-#   }
-# }
