@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.udemy.compras.ClienteGraphQLTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.444 s <<< FAILURE! - in com.udemy.compras.ClienteGraphQLTest
+testClientes  Time elapsed: 0.684 s  <<< ERROR!
+org.json.JSONException: Value null at data of type org.json.JSONObject$1 cannot be converted to JSONObject
+	at com.udemy.compras.ClienteGraphQLTest.testClientes(ClienteGraphQLTest.java:35)
+
