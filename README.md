@@ -1,5 +1,7 @@
 # Compras - API em Graphql com Spring
 
+Disponível para acesso em: https://compras-springboot-graphql.herokuapp.com/graphiql
+
 http://graphql.org/swapi-graphql
 
 https://github.com/graphql/graphql-spec
